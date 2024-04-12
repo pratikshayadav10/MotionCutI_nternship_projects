@@ -1,0 +1,33 @@
+{
+  "food": [
+    {
+      "category": "food",
+      "amount": 200.0,
+      "description": "pizza burger vadapav",
+      "timestamp": "2024-01-12 10:41:51"
+    },
+    {
+      "category": "food",
+      "amount": 700.0,
+      "description": "hg",
+      "timestamp": "2024-01-12 10:44:25"
+    },
+    {
+      "category": "food",
+      "amount": 800.0,
+      "description": "hghb",
+      "timestamp": "2024-01-12 10:46:31"
+    }
+  ],
+  "entertainment": [
+    {
+      "category": "entertainment",
+      "amount": 10000.0,
+      "description": "party shopping",
+      "timestamp": "2024-01-12 11:01:52"
+    }
+  ]
+}
+
+
+
